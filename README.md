@@ -1,2 +1,2 @@
 # JAVA_HOME
-JAVA-Home V
+JAVA-Home
